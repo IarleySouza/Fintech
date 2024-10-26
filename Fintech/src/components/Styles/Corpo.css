@@ -1,0 +1,14 @@
+main {
+    background: linear-gradient(180deg, rgba(93, 93, 255, 0.78) 16.5%, rgba(56, 56, 153, 0.78) 61.5%);
+    height: 1000px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.h2-principal {
+    font-size: 3em;
+    color: #fff;
+    width: 700px;
+    text-align: center;
+}
