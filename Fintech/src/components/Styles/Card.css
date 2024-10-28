@@ -4,7 +4,7 @@
 }
 
 .card {
-    width: 300px; /* Ajuste para o tamanho da sua imagem */
+    width: 600px; /* Ajuste para o tamanho da sua imagem */
     height: auto;
     position: relative;
     transform-style: preserve-3d;

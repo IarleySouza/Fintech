@@ -1,6 +1,6 @@
 main {
     background: linear-gradient(180deg, rgba(93, 93, 255, 0.78) 16.5%, rgba(56, 56, 153, 0.78) 61.5%);
-    height: 1000px;
+    height: 300px;
     width: 100%;
     display: flex;
     align-items: center;
