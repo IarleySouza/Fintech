@@ -1,12 +1,15 @@
-main {
+.principal {
     background: linear-gradient(180deg, rgba(93, 93, 255, 0.78) 16.5%, rgba(56, 56, 153, 0.78) 61.5%);
-    height: 300px;
+    height: 800px;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
 .h2-principal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-size: 3em;
     color: #fff;
     width: 700px;

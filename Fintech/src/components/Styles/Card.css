@@ -26,14 +26,15 @@
 .card-face {
     position: absolute;
     width: 100%;
-    height: 100%;
+    height: 40%;
     backface-visibility: hidden; /* Oculta a face de trás */
 }
 
 .card-front img,
 .card-back img {
-    width: 100%;
+    width: 70%;
     height: auto;
+
 }
 
 .card-back {
